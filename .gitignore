@@ -31,3 +31,6 @@ target/
 *.iml
 
 .DS_Store
+
+pdfservices-api-credentials.json
+private.key
